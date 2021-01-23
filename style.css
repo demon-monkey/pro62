@@ -1,0 +1,19 @@
+#item img {
+    height: 325p;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+}
+
+.start {
+    background-color: linear-gradient(#B7F8DB, #50A7C2);
+}
+
+.carousel-inner {
+    background-color: linear-gradient(#ff9a9e, #fecfef);
+}
